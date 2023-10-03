@@ -5,6 +5,5 @@ A versatile Data Scientist skilled in Python, ML algorithms, and Power BI. Dedic
 
 How to reach me: 
 - [Linkedin](https://www.linkedin.com/in/karinajonina)
-- [Kaggle](https://www.kaggle.com/karinajonina)
 - [Tableau Public](https://public.tableau.com/profile/karina.jonina#!/)
 
