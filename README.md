@@ -1,10 +1,10 @@
 ### Karina Jonina
 
-Aspiring Data Scientist currently completing Master of Science in Data Science in IT Carlow with experience of working in digital marketing and leadership. Experienced in reporting of analysed data in presentations and written documents. Proficient knowledge of statistics, mathematics, and machine learning. Impressive understanding of analytics tools for effective analyses of data. 
+A versatile Data Scientist skilled in Python, ML algorithms, and Power BI. Dedicated to translating complex data into actionable insights with an ability to create dynamic dashboards, honed by a creative and detail-oriented approach. Experienced in methods and technologies for acquiring, interpreting, and analysing big data using Python. Eager to work in fast-paced environment and exceed targets and expectations. 
 
 
 How to reach me: 
 - [Linkedin](https://www.linkedin.com/in/karinajonina)
 - [Kaggle](https://www.kaggle.com/karinajonina)
 - [Tableau Public](https://public.tableau.com/profile/karina.jonina#!/)
-- [Salesforce Trailhead](https://trailblazer.me/id/kjonina)
+
