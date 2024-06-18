@@ -4,15 +4,9 @@ A versatile Data Scientist skilled in Python, ML algorithms, and Power BI. Dedic
 
 
 How to reach me: 
-- [Linkedin](https://www.linkedin.com/in/karinajonina)
-- [Tableau Public](https://public.tableau.com/profile/karina.jonina#!/)
-
-
 <a href='https://www.linkedin.com/in/karinajonina/'>
 <img src='icons/icon_linkedin.png'/></a>
-
+<a href='https://public.tableau.com/profile/karina.jonina#!/'>
+<img src='icons/icon_tableau.png'/></a>
 
 <img src='icons/Resume.png'/></a>
-
-
-
