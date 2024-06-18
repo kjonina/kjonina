@@ -7,3 +7,12 @@ How to reach me:
 - [Linkedin](https://www.linkedin.com/in/karinajonina)
 - [Tableau Public](https://public.tableau.com/profile/karina.jonina#!/)
 
+
+<a href='https://www.linkedin.com/in/karinajonina/'>
+<img src='icons/icon_linkedin.png'/></a>
+
+
+<img src='icons/Resume.png'/></a>
+
+
+
