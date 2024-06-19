@@ -23,9 +23,11 @@ How to reach me:
 
 <img src='https://github.com/kjonina/Employee-Attrition/blob/main/screenshot/tabluea.png'/></a>
 
-## [Ecommerce Transaction Prediction](https://github.com/kjonina/Ecommerce-Transaction-Prediction)
+## [Comparing Ireland in COVID-19 Dashboard](https://public.tableau.com/app/profile/karina.jonina/viz/COVID-19Dashboard_16121687154650/Deathsper100000)
 
-<img src=''/></a>
+<img src='icons/tableau_covid.png'/></a>
+
+## [Ecommerce Transaction Prediction](https://github.com/kjonina/Ecommerce-Transaction-Prediction)
 
 ## [Tableau Resume](https://public.tableau.com/app/profile/karina.jonina/viz/KarinaTableauCV/Resume)
 <img src='icons/Resume.png'/></a>
