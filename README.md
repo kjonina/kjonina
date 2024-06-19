@@ -20,9 +20,13 @@ How to reach me:
 
 <img src='https://github.com/kjonina/Employee-Attrition/blob/main/screenshot/tabluea.png'/></a>
 
+## [Forecasting Cryprotcurrencting using ARIMA and Prophet](https://github.com/kjonina/forecasting_cryptocurrency_price_and_django_development)
+
+<img src='https://github.com/kjonina/forecasting_cryptocurrency_price_and_django_development/blob/main/Graphs/price_sma_volume_chart%20.PNG'/></a>
+
 ## [Ecommerce Transaction Prediction](https://github.com/kjonina/Ecommerce-Transaction-Prediction)
 
-<img src='https://github.com/kjonina/Analyzing-the-Influence-of-Airbnb-on-Irish-Property-Prices/blob/main/screenshots/animation.gif'/></a>
+<img src=''/></a>
 
 ## [Tableau Resume](https://public.tableau.com/app/profile/karina.jonina/viz/KarinaTableauCV/Resume)
 <img src='icons/Resume.png'/></a>
