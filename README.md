@@ -20,7 +20,7 @@ How to reach me:
 
 <img src='https://github.com/kjonina/Employee-Attrition/blob/main/screenshot/tabluea.png'/></a>
 
-## [Forecasting Cryprotcurrencting using ARIMA and Prophet](https://github.com/kjonina/forecasting_cryptocurrency_price_and_django_development)
+## [Forecasting Cryprotcurrency using ARIMA and Prophet](https://github.com/kjonina/forecasting_cryptocurrency_price_and_django_development)
 
 <img src='https://github.com/kjonina/forecasting_cryptocurrency_price_and_django_development/blob/main/Graphs/price_sma_volume_chart%20.PNG'/></a>
 
