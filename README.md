@@ -15,5 +15,14 @@ How to reach me:
 
 <img src='https://github.com/kjonina/Analyzing-the-Influence-of-Airbnb-on-Irish-Property-Prices/blob/main/screenshots/animation.gif'/></a>
 
+
+## [Reducing Employee Turnover](https://github.com/kjonina/Employee-Attrition)
+
+<img src='https://github.com/kjonina/Employee-Attrition/blob/main/screenshot/tabluea.png'/></a>
+
+## [Ecommerce Transaction Prediction](https://github.com/kjonina/Ecommerce-Transaction-Prediction)
+
+<img src='https://github.com/kjonina/Analyzing-the-Influence-of-Airbnb-on-Irish-Property-Prices/blob/main/screenshots/animation.gif'/></a>
+
 ## [Tableau Resume](https://public.tableau.com/app/profile/karina.jonina/viz/KarinaTableauCV/Resume)
 <img src='icons/Resume.png'/></a>
