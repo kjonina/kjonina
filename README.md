@@ -15,14 +15,13 @@ How to reach me:
 
 <img src='https://github.com/kjonina/Analyzing-the-Influence-of-Airbnb-on-Irish-Property-Prices/blob/main/screenshots/animation.gif'/></a>
 
+## [Forecasting Cryprotcurrency using ARIMA and Prophet](https://github.com/kjonina/forecasting_cryptocurrency_price_and_django_development)
+
+<img src='https://github.com/kjonina/forecasting_cryptocurrency_price_and_django_development/blob/main/Graphs/price_sma_volume_chart%20.PNG'/></a>
 
 ## [Reducing Employee Turnover](https://github.com/kjonina/Employee-Attrition)
 
 <img src='https://github.com/kjonina/Employee-Attrition/blob/main/screenshot/tabluea.png'/></a>
-
-## [Forecasting Cryprotcurrency using ARIMA and Prophet](https://github.com/kjonina/forecasting_cryptocurrency_price_and_django_development)
-
-<img src='https://github.com/kjonina/forecasting_cryptocurrency_price_and_django_development/blob/main/Graphs/price_sma_volume_chart%20.PNG'/></a>
 
 ## [Ecommerce Transaction Prediction](https://github.com/kjonina/Ecommerce-Transaction-Prediction)
 
