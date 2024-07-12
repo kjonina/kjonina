@@ -31,3 +31,5 @@ How to reach me:
 
 ## [Tableau Resume](https://public.tableau.com/app/profile/karina.jonina/viz/KarinaTableauCV/Resume)
 <img src='icons/Resume.png'/></a>
+
+..
