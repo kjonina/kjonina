@@ -35,4 +35,4 @@ https://github.com/kjonina/kjonina/blob/master/icons/AIRbnbpng.png
 <img src='icons/Resume.png'/></a>
 
 ## [To Airbnb OR Not To Airbnb?](https://public.tableau.com/app/profile/karina.jonina/viz/To-Rent-or-Not-To-Rent/Dashboard)
-https://github.com/kjonina/kjonina/blob/master/icons/AIRbnbpng.png
+<img src='https://github.com/kjonina/kjonina/blob/master/icons/AIRbnbpng.png'></a>
