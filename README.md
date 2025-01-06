@@ -20,7 +20,7 @@ How to reach me:
 
 <img src='https://github.com/kjonina/kjonina/blob/master/icons/Maven%20Roaster.png'/></a>
 
-##[Analyzing the Influence of Airbnb on Irish Property Prices](https://github.com/kjonina/Analyzing-the-Influence-of-Airbnb-on-Irish-Property-Prices)
+## [Analyzing the Influence of Airbnb on Irish Property Prices](https://github.com/kjonina/Analyzing-the-Influence-of-Airbnb-on-Irish-Property-Prices)
 
 <img src='https://github.com/kjonina/Analyzing-the-Influence-of-Airbnb-on-Irish-Property-Prices/blob/main/screenshots/animation.gif'/></a>
 
