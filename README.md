@@ -21,18 +21,25 @@ How to reach me:
 
 ## [Reducing Employee Turnover](https://github.com/kjonina/Employee-Attrition)
 
-<img src='https://github.com/kjonina/Employee-Attrition/blob/main/screenshot/tabluea.png'/></a>
+<img src='https://github.com/kjonina/kjonina/blob/master/icons/Employee%20CHurn.png'/></a>
+
+## [Maven Roaster Dashboard](https://public.tableau.com/app/profile/karina.jonina/viz/MavenRoasters_16961961513650/MavenRoaster)
+
+<img src='https://github.com/kjonina/kjonina/blob/master/icons/Maven%20Roaster.png'/></a>
 
 ## [Comparing Ireland in COVID-19 Dashboard](https://public.tableau.com/app/profile/karina.jonina/viz/COVID-19Dashboard_16121687154650/Deathsper100000)
 
 <img src='icons/tableau_covid.png'/></a>
 
-## [Ecommerce Transaction Prediction](https://github.com/kjonina/Ecommerce-Transaction-Prediction)
+## [Customer Retention Strategies](https://public.tableau.com/app/profile/karina.jonina/viz/TelcoCustomerChurn_17262655000800/Overview)
 
-https://github.com/kjonina/kjonina/blob/master/icons/AIRbnbpng.png
+<img src='https://github.com/kjonina/kjonina/blob/master/icons/Employee%20CHurn.png'></a>
 
 ## [Tableau Resume](https://public.tableau.com/app/profile/karina.jonina/viz/KarinaTableauCV/Resume)
 <img src='icons/Resume.png'/></a>
 
 ## [To Airbnb OR Not To Airbnb?](https://public.tableau.com/app/profile/karina.jonina/viz/To-Rent-or-Not-To-Rent/Dashboard)
+
 <img src='https://github.com/kjonina/kjonina/blob/master/icons/AIRbnbpng.png'></a>
+
+## [Ecommerce Transaction Prediction](https://github.com/kjonina/Ecommerce-Transaction-Prediction)
