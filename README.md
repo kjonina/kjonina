@@ -11,13 +11,6 @@ How to reach me:
 <img src='icons/icon_tableau.png'/></a>
 
 # Projects
-## [Analyzing the Influence of Airbnb on Irish Property Prices](https://github.com/kjonina/Analyzing-the-Influence-of-Airbnb-on-Irish-Property-Prices)
-
-<img src='https://github.com/kjonina/Analyzing-the-Influence-of-Airbnb-on-Irish-Property-Prices/blob/main/screenshots/animation.gif'/></a>
-
-## [Forecasting Cryprotcurrency using ARIMA and Prophet](https://github.com/kjonina/forecasting_cryptocurrency_price_and_django_development)
-
-<img src='https://github.com/kjonina/forecasting_cryptocurrency_price_and_django_development/blob/main/Graphs/price_sma_volume_chart%20.PNG'/></a>
 
 ## [Reducing Employee Turnover](https://github.com/kjonina/Employee-Attrition)
 
@@ -27,9 +20,13 @@ How to reach me:
 
 <img src='https://github.com/kjonina/kjonina/blob/master/icons/Maven%20Roaster.png'/></a>
 
-## [Comparing Ireland in COVID-19 Dashboard](https://public.tableau.com/app/profile/karina.jonina/viz/COVID-19Dashboard_16121687154650/Deathsper100000)
+##[Analyzing the Influence of Airbnb on Irish Property Prices](https://github.com/kjonina/Analyzing-the-Influence-of-Airbnb-on-Irish-Property-Prices)
 
-<img src='icons/tableau_covid.png'/></a>
+<img src='https://github.com/kjonina/Analyzing-the-Influence-of-Airbnb-on-Irish-Property-Prices/blob/main/screenshots/animation.gif'/></a>
+
+## [Forecasting Cryprotcurrency using ARIMA and Prophet](https://github.com/kjonina/forecasting_cryptocurrency_price_and_django_development)
+
+<img src='https://github.com/kjonina/forecasting_cryptocurrency_price_and_django_development/blob/main/Graphs/price_sma_volume_chart%20.PNG'/></a>
 
 ## [Customer Retention Strategies](https://public.tableau.com/app/profile/karina.jonina/viz/TelcoCustomerChurn_17262655000800/Overview)
 
@@ -41,5 +38,9 @@ How to reach me:
 ## [To Airbnb OR Not To Airbnb?](https://public.tableau.com/app/profile/karina.jonina/viz/To-Rent-or-Not-To-Rent/Dashboard)
 
 <img src='https://github.com/kjonina/kjonina/blob/master/icons/AIRbnbpng.png'></a>
+
+## [Comparing Ireland in COVID-19 Dashboard](https://public.tableau.com/app/profile/karina.jonina/viz/COVID-19Dashboard_16121687154650/Deathsper100000)
+
+<img src='icons/tableau_covid.png'/></a>
 
 ## [Ecommerce Transaction Prediction](https://github.com/kjonina/Ecommerce-Transaction-Prediction)
