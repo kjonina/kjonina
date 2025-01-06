@@ -29,7 +29,10 @@ How to reach me:
 
 ## [Ecommerce Transaction Prediction](https://github.com/kjonina/Ecommerce-Transaction-Prediction)
 
+https://github.com/kjonina/kjonina/blob/master/icons/AIRbnbpng.png
+
 ## [Tableau Resume](https://public.tableau.com/app/profile/karina.jonina/viz/KarinaTableauCV/Resume)
 <img src='icons/Resume.png'/></a>
 
-..
+## [To Airbnb OR Not To Airbnb?](https://public.tableau.com/app/profile/karina.jonina/viz/To-Rent-or-Not-To-Rent/Dashboard)
+https://github.com/kjonina/kjonina/blob/master/icons/AIRbnbpng.png
