@@ -12,7 +12,7 @@ How to reach me:
 
 # Projects
 
-## [TORX](http://public.tableau.com/profile/api/publish/TOR330/TOR330)
+## [TORX | Tor Des Géants ](http://public.tableau.com/profile/api/publish/TOR330/TOR330)
 
 <img src='https://github.com/kjonina/kjonina/blob/master/icons/TOR330_1.png'></a>
 
