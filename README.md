@@ -12,6 +12,10 @@ How to reach me:
 
 # Projects
 
+## [TORX](http://public.tableau.com/profile/api/publish/TOR330/TOR330)
+
+<img src='https://github.com/kjonina/kjonina/blob/master/icons/TOR330.png'></a>
+
 ## [Reducing Employee Turnover](https://github.com/kjonina/Employee-Attrition)
 
 <img src='https://github.com/kjonina/kjonina/blob/master/icons/Employee%20CHurn.png'/></a>
