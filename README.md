@@ -1,9 +1,13 @@
-# Karina Jonina
+Hi there! 
+---
 
-A versatile Data Scientist skilled in Python, ML algorithms, and Power BI. Dedicated to translating complex data into actionable insights with an ability to create dynamic dashboards, honed by a creative and detail-oriented approach. Experienced in methods and technologies for acquiring, interpreting, and analysing big data using Python. Eager to work in fast-paced environment and exceed targets and expectations. 
+I'm Karina, a freelance data consultant, specializing in data viz design. 
 
+- :computer: **Coding**: Python, SQL, R, Shiny, Django, Flask
+- 👩‍🏫 **Sharer of Code**: I share most of my personal projects here. 
+- :running_woman: **Hobbies**: Running and Crochet!
 
-How to reach me: 
+If you're interested in hiring me or collaborating with me on a project, please [email me](mailto:karinajonina@yahoo.com).
 
 <a href='https://www.linkedin.com/in/karinajonina/'>
 <img src='icons/icon_linkedin.png'/></a>
@@ -12,7 +16,10 @@ How to reach me:
 <a href='https://www.instagram.com/karinajonina?igsh=MTdsa2VoOGRtd296Zw=='>
 <img src='icons/icon_insta.png'/></a>
 
+
 # Projects
+---
+
 
 ## [TORX | Tor Des Géants](http://public.tableau.com/profile/api/publish/TOR330/TOR330)
 
