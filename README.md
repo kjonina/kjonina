@@ -9,6 +9,8 @@ How to reach me:
 <img src='icons/icon_linkedin.png'/></a>
 <a href='https://public.tableau.com/profile/karina.jonina#!/'>
 <img src='icons/icon_tableau.png'/></a>
+<a href='https://www.instagram.com/karinajonina?igsh=MTdsa2VoOGRtd296Zw=='>
+<img src='icons/insta.jpg'/></a>
 
 # Projects
 
