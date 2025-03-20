@@ -17,13 +17,6 @@ If you're interested in hiring me or collaborating with me on a project, please 
 <img src='icons/icon_insta.png'/></a>
 
 
-Beloved Personal Projects
---- 
-<p align="center">
-  <a href="https://github.com/kjonina/TORX"> <img src="/icons/TORX.jpg" width="47%" /> </a>
-</p>
-
-
 Machine Learning in Business
 ---
 
@@ -41,4 +34,10 @@ I am studying for the Chartered Financial Analyst (CFA) Level 1 exam and I love 
   <a href="https://github.com/kjonina/Analyzing-the-Influence-of-Airbnb-on-Irish-Property-Prices"> <img src="/icons/influsence_Irish_housing_prices.jpg" width="47%" /> </a>
   <a href = "https://github.com/kjonina/forecasting_cryptocurrency_price_and_django_development"> <img src="/icons/foreacsting.jpg" width="47%" />  </a>
    <a href="https://github.com/kjonina/To-Airbnb-or-Not-to-Airbnb"> <img src="/icons/TO-Airbnb.jpg" width="47%" /> </a>
+</p>
+
+Beloved Personal Projects
+--- 
+<p align="center">
+  <a href="https://github.com/kjonina/TORX"> <img src="/icons/TORX.jpg" width="47%" /> </a>
 </p>
