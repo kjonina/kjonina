@@ -29,8 +29,8 @@ Data Science Projects
 ---
 
 <p align="center">
- <a href="https://github.com/kjonina/Ecommerce-Transaction-Prediction"> <img src="/icons/employee_attrition.jpg" width="47%" /> </a>
-  <a href="https://github.com/kjonina/Employee-Attrition"> <img src="/icons/ecommerce.jpg" width="47%" /> </a>
+ <a href="https://github.com/kjonina/Ecommerce-Transaction-Prediction"> <img src="/icons/ecommerce.jpg" width="47%" /> </a>
+  <a href="https://github.com/kjonina/Employee-Attrition"> <img src="/icons/employee_attrition.jpg" width="47%" /> </a>
   <a href="https://github.com/kjonina/Analyzing-the-Influence-of-Airbnb-on-Irish-Property-Prices"> <img src="/icons/influsence_Irish_housing_prices.jpg" width="47%" /> </a>
   <a href = "https://github.com/kjonina/forecasting_cryptocurrency_price_and_django_developments"> <img src="/icons/foreacsting.jpg" width="47%" />  </a>
 </p>
