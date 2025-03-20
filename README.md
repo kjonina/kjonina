@@ -24,7 +24,7 @@ Beloved Personal Projects
 </p>
 
 
-Business Applications and Machine Learning Algorithms
+Machine Learning in Business
 ---
 
 <p align="center">
@@ -41,6 +41,4 @@ I am studying for the Chartered Financial Analyst (CFA) Level 1 exam and I love 
   <a href="https://github.com/kjonina/Analyzing-the-Influence-of-Airbnb-on-Irish-Property-Prices"> <img src="/icons/influsence_Irish_housing_prices.jpg" width="47%" /> </a>
   <a href = "https://github.com/kjonina/forecasting_cryptocurrency_price_and_django_development"> <img src="/icons/foreacsting.jpg" width="47%" />  </a>
    <a href="https://github.com/kjonina/To-Airbnb-or-Not-to-Airbnb"> <img src="/icons/TO-Airbnb.jpg" width="47%" /> </a>
-    `<a href = "https://github.com/kjonina/CFA"> <img src="/icons/foreacsting.jpg" width="47%" />  </a>
-	`<a href = "https://github.com/kjonina/stock_graph_of_dreams"> <img src="/icons/foreacsting.jpg" width="47%" />  </a>
 </p>
