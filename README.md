@@ -17,29 +17,20 @@ If you're interested in hiring me or collaborating with me on a project, please 
 <img src='icons/icon_insta.png'/></a>
 
 
-# Projects
+Projects
+--- 
+<p align="center">
+  <a href="https://github.com/kjonina/TORX"> <img src="/icons/TORX.jpg" width="47%" /> </a>
+ <a href="https://github.com/kjonina/To-Airbnb-or-Not-to-Airbnb"> <img src="/icons/TO-Airbnb.jpg" width="47%" /> </a>
+</p>
+
+
+Data Science Projects
 ---
 
-
-## [TORX | Tor Des Géants](http://public.tableau.com/profile/api/publish/TOR330/TOR330)
-
-Busting TOR330 myths!
-
-<img src='https://github.com/kjonina/kjonina/blob/master/icons/TOR330_1.png'></a>
-
-
-## [Maven Roaster Dashboard](https://public.tableau.com/app/profile/karina.jonina/viz/MavenRoasters_16961961513650/MavenRoaster)
-
-<img src='https://github.com/kjonina/kjonina/blob/master/icons/Maven%20Roaster.png'/></a>
-
-## [Analyzing the Influence of Airbnb on Irish Property Prices](https://github.com/kjonina/Analyzing-the-Influence-of-Airbnb-on-Irish-Property-Prices)
-
-<img src='https://github.com/kjonina/Analyzing-the-Influence-of-Airbnb-on-Irish-Property-Prices/blob/main/screenshots/animation.gif'/></a>
-
-## [Customer Retention Strategies](https://public.tableau.com/app/profile/karina.jonina/viz/TelcoCustomerChurn_17262655000800/Overview)
-
-<img src='https://github.com/kjonina/kjonina/blob/master/icons/Employee%20CHurn.png'></a>
-
-## [To Airbnb OR Not To Airbnb?](https://public.tableau.com/app/profile/karina.jonina/viz/To-Rent-or-Not-To-Rent/Dashboard)
-
-<img src='https://github.com/kjonina/kjonina/blob/master/icons/AIRbnbpng.png'></a>
+<p align="center">
+ <a href="https://github.com/kjonina/Ecommerce-Transaction-Prediction"> <img src="/ds-projects/drag-queens.png" width="47%" /> </a>
+  <a href="https://github.com/kjonina/Employee-Attrition"> <img src="/ds-projects/peloton-analysis.png" width="47%" /> </a>
+  <a href="https://github.com/kjonina/Analyzing-the-Influence-of-Airbnb-on-Irish-Property-Prices"> <img src="/ds-projects/music-or-lyrics.png" width="47%" /> </a>
+  <a href = "https://github.com/kjonina/forecasting_cryptocurrency_price_and_django_developments"> <img src="/ds-projects/ames-housing.jpg" width="47%" />  </a>
+</p>
