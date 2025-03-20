@@ -5,7 +5,7 @@ I'm Karina, a freelance data consultant, specializing in data viz design.
 
 - :computer: **Coding**: Python, SQL, R, Shiny, Django, Flask
 - :running_woman: **Hobbies**: Running and Crocheting!
-- :bar chart: **Data Nerd**: I shared most of my personal projects on here!
+- :bar chart: **Data Nerd**: I shared my personal projects on here!
 
 If you're interested in hiring me or collaborating with me on a project, please [email me](mailto:karinajonina@yahoo.com).
 
