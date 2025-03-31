@@ -14,6 +14,10 @@ If you're interested in hiring me or collaborating with me on a project, please 
 <a href='https://public.tableau.com/profile/karina.jonina#!/'>
 <img src='icons/icon_tableau.png'/></a>
 <a href='https://www.instagram.com/karinajonina?igsh=MTdsa2VoOGRtd296Zw=='>
+<img src='icons/icon_insta.png'/></a>
+
+
+
 
 
 Machine Learning in Business
